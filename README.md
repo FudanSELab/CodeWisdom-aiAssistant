@@ -1,0 +1,2 @@
+# aiAssistant
+CodeWisdom-aiAssistant release
