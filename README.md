@@ -8,6 +8,6 @@ CodeWisdom-aiAssistant is a plugin of IntelliJ IDEA based on big data and deep l
 
 # Installation tutorial
 For Windows: File -> Settings -> Plugins -> Install plugin from disk... -> find and choose the 'CodeWisdom-aiAssistant.jar'
-For Mac: IntelliJ IDEA -> Preferences -> Plugins -> Install plugin from disk... -> find and choose the 'CodeWisdom-aiAssistant.jar'
+For Mac: IntelliJ IDEA -> Preferences -> Plugins -> Install plugin from disk... -> find and choose the 'CodeWisdom-aiAssistant.jar'.
 # How-to-use
-Put the cursor to the line that needs API recommendations and then press the shortcut key "ctrl+alt+0" or put the cursor to the line that needs API recommendations, press the right mouse button to get a pop menu and then press "CodeWisdom-aiAssistant" in the pop menu
+Put the cursor to the line that needs API recommendations and then press the shortcut key "ctrl+alt+0" or put the cursor to the line that needs API recommendations, press the right mouse button to get a pop menu and then press "CodeWisdom-aiAssistant" in the pop menu.
