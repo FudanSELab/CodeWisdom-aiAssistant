@@ -16,4 +16,14 @@ Put the cursor to the line that needs API recommendations and then press the sho
 ## 2.Note that the following usages of CodeWisdom-aiAssistant are allowed:
 ### 2.1 Recommend a whole line API call:
 ![image](https://github.com/FudanSELab/CodeWisdom-aiAssistant/blob/master/Notes/one_line_code_note.jpg)
-
+### 2.2 Recommend the API condition in control structures such as 'if', 'while' and 'for':
+![image](https://github.com/FudanSELab/CodeWisdom-aiAssistant/blob/master/Notes/note3.jpg)
+![image](https://github.com/FudanSELab/CodeWisdom-aiAssistant/blob/master/Notes/note5.jpg)
+![image](https://github.com/FudanSELab/CodeWisdom-aiAssistant/blob/master/Notes/note10.jpg)
+## 3.Note that the following usages of CodeWisdom-aiAssistant are not allowed:
+### 3.1 Recommend the API call when given its receiver (e.g. file.$hole$):
+![image](https://github.com/FudanSELab/CodeWisdom-aiAssistant/blob/master/Notes/note4.jpg)
+### 3.2 Recommend the API condition in for($hole$):
+![image](https://github.com/FudanSELab/CodeWisdom-aiAssistant/blob/master/Notes/note9.jpg)
+### 3.3 Recommend the API call when it is the parameter of another API call. In this situation CodeWisdom-aiAssistant can give recommendations, but the recommendations may be not accurate:
+![image](https://github.com/FudanSELab/CodeWisdom-aiAssistant/blob/master/Notes/note8.jpg)
